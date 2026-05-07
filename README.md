@@ -1,2 +1,2 @@
 # Ejercicios-Java
-Seis ejercicios que estuve practicando con java.
+Ejercicios que estoy practicando con java.
